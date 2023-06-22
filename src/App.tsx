@@ -6,23 +6,23 @@ import { CreateTodoItem } from "./components/CreateTodoItem";
 import { Alert } from "./components/Alert";
 
 const App = () => {
-  const [todoList, setTodoList] = useState<TodoType[]>([
+  const [todoList, setTodoList] = useState<TodoType[] | []>([
     {
       id: 1,
       text: "Learn more JS",
-      date: new Date().toLocaleDateString(),
+      date: new Date().toLocaleDateString("es-ES"),
       isDone: false,
     },
     {
       id: 2,
       text: "Improve React and Typescript knowledge",
-      date: new Date().toLocaleDateString(),
+      date: new Date().toLocaleDateString("es-ES"),
       isDone: false,
     },
     {
       id: 3,
       text: "Practice with fake projects",
-      date: new Date().toLocaleDateString(),
+      date: new Date().toLocaleDateString("es-ES"),
       isDone: false,
     },
   ]);
