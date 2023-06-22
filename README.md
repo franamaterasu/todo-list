@@ -1,7 +1,7 @@
 
 
 
-![App Screenshot](https://i.ibb.co/Rz2TjV1/Captura-de-pantalla-2023-06-22-a-las-12-46-24.png)
+![App Screenshot](https://i.ibb.co/MnfGg0H/Captura-de-pantalla-2023-06-22-a-las-13-00-43.png)
 
 
 # Todo List
